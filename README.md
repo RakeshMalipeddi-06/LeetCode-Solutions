@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -40,4 +42,24 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
