@@ -12,6 +12,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
