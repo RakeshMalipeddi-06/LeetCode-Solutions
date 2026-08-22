@@ -37,6 +37,7 @@
 | ------- |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
