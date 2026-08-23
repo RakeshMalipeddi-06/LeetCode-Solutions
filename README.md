@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -52,6 +53,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
