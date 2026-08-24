@@ -14,6 +14,7 @@
 | [1386-cinema-seat-allocation](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -48,6 +50,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -58,14 +61,17 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
@@ -79,6 +85,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
