@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -140,6 +141,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
