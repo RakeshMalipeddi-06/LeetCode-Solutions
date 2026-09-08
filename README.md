@@ -171,4 +171,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
