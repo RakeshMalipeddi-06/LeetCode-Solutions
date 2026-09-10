@@ -163,6 +163,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
@@ -175,5 +176,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
