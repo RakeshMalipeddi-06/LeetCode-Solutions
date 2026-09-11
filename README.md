@@ -22,6 +22,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -165,6 +168,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
