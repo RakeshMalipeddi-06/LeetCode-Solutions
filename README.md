@@ -121,6 +121,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sliding Window
 |  |
@@ -182,6 +184,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Manacher
@@ -195,6 +198,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -204,4 +208,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
