@@ -13,6 +13,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
@@ -205,6 +206,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -217,4 +219,17 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
