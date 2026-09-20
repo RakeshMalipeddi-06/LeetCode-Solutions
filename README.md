@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -199,6 +200,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -219,6 +221,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 ## Stack
@@ -228,6 +231,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 ## Data Stream
