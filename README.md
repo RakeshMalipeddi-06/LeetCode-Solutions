@@ -226,12 +226,14 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -253,4 +255,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
