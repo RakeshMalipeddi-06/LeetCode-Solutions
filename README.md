@@ -153,6 +153,7 @@
 | [0058-length-of-last-word](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -250,4 +252,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
