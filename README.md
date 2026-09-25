@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1510-stone-game-iv](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
@@ -157,6 +158,7 @@
 | [0020-valid-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -188,6 +190,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -239,6 +242,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0853-car-fleet) |
