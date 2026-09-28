@@ -19,6 +19,7 @@
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -179,6 +180,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Union-Find
@@ -251,6 +253,7 @@
 | [0853-car-fleet](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
