@@ -11,6 +11,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0641-design-circular-deque](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [0853-car-fleet](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -223,6 +224,7 @@
 | [0206-reverse-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0641-design-circular-deque](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
@@ -239,6 +241,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 ## Stack
@@ -278,6 +281,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
