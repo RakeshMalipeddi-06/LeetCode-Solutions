@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0649-dota2-senate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -164,6 +165,7 @@
 | [0205-isomorphic-strings](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0649-dota2-senate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -282,6 +284,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
