@@ -14,6 +14,7 @@
 | [0641-design-circular-deque](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [0853-car-fleet](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -136,6 +137,7 @@
 | [0148-sort-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0853-car-fleet) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
@@ -183,6 +185,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -285,6 +288,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
