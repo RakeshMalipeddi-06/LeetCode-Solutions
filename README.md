@@ -15,6 +15,7 @@
 | [0853-car-fleet](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
@@ -300,4 +302,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
