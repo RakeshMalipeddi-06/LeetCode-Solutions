@@ -12,6 +12,7 @@
 | [0410-split-array-largest-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
+| [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -125,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -170,6 +172,7 @@
 | [0224-basic-calculator](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0649-dota2-senate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -305,5 +308,10 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
