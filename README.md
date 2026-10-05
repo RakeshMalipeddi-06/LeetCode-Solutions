@@ -119,6 +119,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -168,6 +169,7 @@
 | [0020-valid-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0127-word-ladder](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -308,10 +310,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
