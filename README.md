@@ -26,6 +26,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1872-stone-game-viii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -162,6 +163,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | [0127-word-ladder](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Bidirectional Search
 |  |
 | ------- |
