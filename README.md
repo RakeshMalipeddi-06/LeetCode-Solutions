@@ -203,6 +203,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Recursion
 |  |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -316,6 +318,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0909-snakes-and-ladders](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -324,4 +327,16 @@
 | ------- |
 | [0127-word-ladder](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
