@@ -21,6 +21,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -155,6 +156,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -302,6 +304,7 @@
 | [0641-design-circular-deque](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
@@ -339,4 +342,16 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
