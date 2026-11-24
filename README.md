@@ -305,6 +305,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Bracket Sequences
 |  |
@@ -343,6 +344,7 @@
 | [0112-path-sum](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0743-network-delay-time](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0909-snakes-and-ladders](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
@@ -356,6 +358,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -368,6 +371,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -430,4 +434,12 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
