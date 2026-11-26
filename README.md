@@ -212,6 +212,7 @@
 | [0130-surrounded-regions](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Recursion
 |  |
@@ -315,6 +316,7 @@
 | [0743-network-delay-time](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 | [0909-snakes-and-ladders](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Bidirectional Search
 |  |
@@ -370,6 +373,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Coloring
 |  |
 | ------- |
