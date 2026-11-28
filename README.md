@@ -18,6 +18,7 @@
 | [0875-koko-eating-bananas](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0990-satisfiability-of-equality-equations](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -185,6 +186,7 @@
 | [0383-ransom-note](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0649-dota2-senate](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [0990-satisfiability-of-equality-equations](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -211,6 +213,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -373,6 +376,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RakeshMalipeddi-06/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Coloring
 |  |
